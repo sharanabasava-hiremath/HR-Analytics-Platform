@@ -1,0 +1,7 @@
+VO\UsersTableVO.class
+login\SignUp.class
+login\Auth.class
+database\DatabaseAccess.class
+Servlet\LogOut.class
+database\UsersTable.class
+login\Login.class
